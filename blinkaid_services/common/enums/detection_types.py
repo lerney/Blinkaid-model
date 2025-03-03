@@ -8,3 +8,4 @@ class DetectionType(Enum):
     GAZE_RIGHT = "Gaze Right"
     GAZE_CENTER = "Gaze Center"
     FROWN = "Frown"
+    NOISE = "Noise"
